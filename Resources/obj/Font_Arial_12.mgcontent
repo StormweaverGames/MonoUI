@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Shawn/Documents/GitHub/DoodleEmpires/MonoUI/Resources/Font_Arial_12.spritefont</SourceFile>
+  <SourceTime>2014-09-07T11:52:25.804035-04:00</SourceTime>
+  <DestFile>C:/Users/Shawn/Documents/GitHub/DoodleEmpires/MonoUI/Resources/bin/Font_Arial_12.xnb</DestFile>
+  <DestTime>2014-09-07T11:52:45.6665688-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <Processor>FontDescriptionProcessor</Processor>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

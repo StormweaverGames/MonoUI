@@ -1,0 +1,2 @@
+Build Script to replace Monogame.Framework.dll:
+call "$(ProjectDir)prebuild.bat" -f $(ConfigurationName)

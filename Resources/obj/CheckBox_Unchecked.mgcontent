@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Shawn/Documents/GitHub/DoodleEmpires/MonoUI/Resources/CheckBox_Unchecked.png</SourceFile>
+  <SourceTime>2014-09-06T14:40:27.0785775-04:00</SourceTime>
+  <DestFile>C:/Users/Shawn/Documents/GitHub/DoodleEmpires/MonoUI/Resources/bin/CheckBox_Unchecked.xnb</DestFile>
+  <DestTime>2014-09-07T11:52:44.3406303-04:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <Processor>TextureProcessor</Processor>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

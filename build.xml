@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BuildCopies>
+  <BuildType Name ="DX">
+    <File Source ="MonoGame_DX.dll" Dest = "Monogame.Framework.dll"/>
+  </BuildType>
+  <BuildType Name ="GL">
+    <File Source ="MonoGame_GL.dll" Dest = "Monogame.Framework.dll"/>
+  </BuildType>
+</BuildCopies>
